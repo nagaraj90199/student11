@@ -1,7 +1,7 @@
 import pytest
-from student import student_details
+from Student import Student_details
 
-def test_student_details():
+def test_Student_details():
     expected_output = (
         "Student Name: nagaraj\n"
         "Student ID: S102\n"
