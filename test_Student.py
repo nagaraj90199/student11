@@ -8,4 +8,4 @@ def test_Student_details():
         "Course Enrolled: BCA\n"
         "Academic Year: 2025\n"
     )
-    assert student_details("nagaraj", "S102", "BCA", "2025") == expected_output
+    assert Student_details("nagaraj", "S102", "BCA", "2025") == expected_output
